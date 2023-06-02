@@ -59,22 +59,22 @@ a:hover {
     background-color: #fff;
 }
 
-#root div.last_news li:last-child {
+#wrap div.last_news li:last-child {
     margin-right: 0;
 }
 
-#root div.last_news li div {
+#wrap  div.last_news li div {
     width: 300px;
     margin: 20px auto;
 }
 
-#root div.last_news li div.title {
+#wrap  div.last_news li div.title {
     height: 130px;
     font-size: 1.6em;
     font-weight: bold;
 }
 
-#root div.last_news li div.text {
+#wrap  div.last_news li div.text {
     height: 92px;
 }
 
@@ -82,32 +82,32 @@ a:hover {
     height: 131px;
 }
 
-#root div.last_news li div.go_btn {
+#wrap  div.last_news li div.go_btn {
     height: 30px;
     line-height: 30px;
 }
 
-#root div.last_news li div.go_btn > a {
+#wrap  div.last_news li div.go_btn > a {
     color: #285094;
     font-size: 1.1em;
 }
 
-#root div.cloud_apps {
+#wrap  div.cloud_apps {
     width: 1200px;
     margin: 0 auto 30px;
 }
 
-#root div.cloud_apps > p {
+#wrap  div.cloud_apps > p {
     margin-bottom: 20px;
 }
 
-#root div.cloud_apps > div {
+#wrap  div.cloud_apps > div {
     background-color: #e7e3df;
     border-radius: 3px;
     padding: 10px;
 }
 
-#root div.cloud_apps > div > ul > li {
+#wrap  div.cloud_apps > div > ul > li {
     width: 153px; height: 60px;
     line-height: 60px;
     margin: 20px;

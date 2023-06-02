@@ -1,10 +1,13 @@
-import './CraFun.css';
-import Footer from './Footer';
 
+import Footer from './Footer';
+import Menu from './Menu';
+import Last_news from './last_news';
 function Oracle() {
   return (
-    <div className="wrap">
+    <div id ="wrap">
 
+      <Menu />
+      <Last_news />
       <Footer/>
 
     </div>

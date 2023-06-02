@@ -2,7 +2,7 @@ import FooterMenu from "./FooterMenu";
 
 const FooterItem = () => {
     return(
-        <>
+        <div>
             <ul>
                 <FooterMenu url='#none' name='Developer Services'/>
                 <FooterMenu url='#none' name='Integration'/>
@@ -22,7 +22,7 @@ const FooterItem = () => {
         
 
             
-        </>
+        </div>
         
 
     );
